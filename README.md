@@ -1,2 +1,2 @@
 # News-Api-Project
-[💥🍃clik here](http://127.0.0.1:5500/index.html)
+[💥🍃clik here](https://ozkan4186.github.io/News-Api-Project/)
